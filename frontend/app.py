@@ -56,7 +56,7 @@ st.markdown("""
 # Welcome banner
 st.markdown("""
 <div class="welcome">
-    <h1>Welcome to MultiCloudDevOps by Veera NareshIT -Springboot project📚</h1>
+    <h1>Java Springboot project📚</h1>
     <p>Manage your student data effortlessly!</p>
 </div>
 """, unsafe_allow_html=True)
