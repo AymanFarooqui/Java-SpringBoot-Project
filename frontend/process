@@ -49,3 +49,9 @@ systemctl status frontend
 #to exit venv give exit 
 # to activate source venv/bin/activate
 
+
+#For database connection:
+#export SPRING_DATASOURCE_URL=jdbc:mysql://database-1.cepcukskyidb.us-east-1.rds.amazonaws.com:3306/datastore?createDatabaseIfNotExist=true
+#export SPRING_DATASOURCE_USERNAME=admin
+#export SPRING_DATASOURCE_PASSWORD=Cloud123
+#java -jar datastore-0.0.7.jar
